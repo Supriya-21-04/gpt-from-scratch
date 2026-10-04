@@ -5,3 +5,7 @@ __pycache__/
 
 checkpoints/
 *.pt
+
+# Generated expanded corpus
+data/corpus_expanded.txt
+data/corpus_expanded_clean.txt
